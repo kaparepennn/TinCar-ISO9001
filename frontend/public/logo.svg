@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 100 100" fill="none">
+  <path d="M10 80 L50 20 L90 80 Z" stroke="#d68d2e" stroke-width="6"/>
+  <rect x="40" y="55" width="20" height="12" fill="#d68d2e"/>
+  <text x="50" y="95" font-family="Arial" font-size="18" fill="#d68d2e" text-anchor="middle">TinCar</text>
+</svg>
